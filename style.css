@@ -250,7 +250,7 @@ body {
   .softwareflex1{
     display: flex;
     position: relative;
-    background-image: url(/images/PS.png);
+    background-image: url(images/photoshop.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -258,7 +258,7 @@ body {
   .softwareflex2{
     display: flex;
     position: relative;
-    background-image: url(/images/AI.png);
+    background-image: url(images/illustrator.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -266,7 +266,7 @@ body {
   .softwareflex3{
     display: flex;
     position: relative;
-    background-image: url(/images/ID.png);
+    background-image: url(images/indesign.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -274,7 +274,7 @@ body {
   .softwareflex4{
     display: flex;
     position: relative;
-    background-image: url(/images/PR.png);
+    background-image: url(images/premiere.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -282,7 +282,7 @@ body {
   .softwareflex5{
     display: flex;
     position: relative;
-    background-image: url(/images/Figma.png);
+    background-image: url(images/figmaa.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -290,7 +290,7 @@ body {
   .softwareflex6{
     display: flex;
     position: relative;
-    background-image: url(/images/VSC.png);
+    background-image: url(images/vscode.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
