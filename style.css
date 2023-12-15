@@ -445,7 +445,7 @@ body {
     margin-right:45px;
     background-color: rgb(179, 0, 255);
     border-radius: 15px;
-    background-image: url(/images/elysium.png);
+    background-image: url(images/elysium.png);
     background-size: cover ;
     z-index: 1 ;
    }
